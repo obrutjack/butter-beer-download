@@ -2,7 +2,7 @@
 參考此篇 https://github.com/VaasuDevanS/google-podcast-downloader
 從 Google Podcast 下載奶油啤酒全部錄音檔為範例.
 
-Author: Jack Liu
+Author: obrutjack
 Date: 20240505
 """
 
