@@ -8,7 +8,7 @@ pip3 install beautifulsoup4
 
 ## 執行(Usage):
 <!-- start:code block -->
-python3 download_harry_potter.py
+python3 butter-beer-download.py
 <!-- end:code block -->
 
 ## 參考來源(Reference):
